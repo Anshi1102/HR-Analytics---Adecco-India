@@ -43,3 +43,78 @@ Targeted Analysis: Analyze historical data to understand factors contributing to
 Actionable Insights: Derive actionable insights from the analysis results to develop targeted strategies for improving employee retention, job satisfaction, and performance.
 # Communication:
 Final Conclusion: Present the findings and recommendations to the senior management and HR department to inform strategic decisions.
+
+# Data Dictionary:
+
+| **Column**              | **Description**                                                  |
+|-------------------------|------------------------------------------------------------------|
+| Age                     | Age of the employee                                              |
+|-------------------------|------------------------------------------------------------------|
+| Attrition               | Whether the employee has left the company (Yes/No)               |
+|-------------------------|------------------------------------------------------------------|
+| BusinessTravel          | Frequency of business travel                                     |
+|-------------------------|------------------------------------------------------------------|
+| DailyRate               | Daily salary rate of the employee                                |
+|-------------------------|------------------------------------------------------------------|
+| Department              | Department in which the employee works                           |
+|-------------------------|------------------------------------------------------------------|
+| DistanceFromHome        | Distance of the employee's home from the workplace               |
+|-------------------------|------------------------------------------------------------------|
+| Education               | Education level of the employee (1-5 scale)                      |
+|-------------------------|------------------------------------------------------------------|
+| EducationField          | Field of education                                               |
+|-------------------------|------------------------------------------------------------------|
+| EmployeeCount           | Always 1 (as the data is individual-specific)                    |
+|-------------------------|------------------------------------------------------------------|
+| EmployeeNumber          | Unique identifier for each employee                              |
+|-------------------------|------------------------------------------------------------------|
+| EnvironmentSatisfaction | Employee's satisfaction with the work environment (1-4 scale)    |
+|-------------------------|------------------------------------------------------------------|
+| Gender                  | Gender of the employee                                           |
+|-------------------------|------------------------------------------------------------------|
+| HourlyRate              | Hourly salary rate of the employee                               |
+|-------------------------|------------------------------------------------------------------|
+| JobInvolvement          | Employee's involvement in their job (1-4 scale)                  |
+|-------------------------|------------------------------------------------------------------|
+| JobLevel                | Job level of the employee (1-5 scale)                            |
+|-------------------------|------------------------------------------------------------------|
+| JobRole                 | Role of the employee within the company                          |
+|-------------------------|------------------------------------------------------------------|
+| JobSatisfaction         | Employee's satisfaction with their job (1-4 scale)               |
+|-------------------------|------------------------------------------------------------------|
+| MaritalStatus           | Marital status of the employee                                   |
+|-------------------------|------------------------------------------------------------------|
+| MonthlyIncome           | Monthly salary of the employee                                   |
+|-------------------------|------------------------------------------------------------------|
+| MonthlyRate             | Monthly rate of the employee                                     |
+|-------------------------|------------------------------------------------------------------|
+| NumCompaniesWorked      | Number of companies the employee has worked for                  |
+|-------------------------|------------------------------------------------------------------|
+| Over18                  | Whether the employee is over 18 years old                        |
+|-------------------------|------------------------------------------------------------------|
+| OverTime                | Whether the employee works overtime (Yes/No)                     |
+|-------------------------|------------------------------------------------------------------|
+| PercentSalaryHike       | Percentage increase in salary                                    |
+|-------------------------|------------------------------------------------------------------|
+| PerformanceRating       | Performance rating of the employee (1-4 scale)                   |
+|-------------------------|------------------------------------------------------------------|
+| RelationshipSatisfaction| Employee's satisfaction with relationships at work (1-4 scale)   |
+|-------------------------|------------------------------------------------------------------|
+| StandardHours           | Standard working hours (80 for all employees)                    |
+|-------------------------|------------------------------------------------------------------|
+| StockOptionLevel        | Stock option level of the employee (0-3 scale)                   |
+|-------------------------|------------------------------------------------------------------|
+| TotalWorkingYears       | Total number of years the employee has worked                    |
+|-------------------------|------------------------------------------------------------------|
+| TrainingTimesLastYear   | Number of training sessions attended by the employee last year   |
+|-------------------------|------------------------------------------------------------------|
+| WorkLifeBalance         | Employee's work-life balance (1-4 scale)                         |
+|-------------------------|------------------------------------------------------------------|
+| YearsAtCompany          | Number of years the employee has been with the company           |
+|-------------------------|------------------------------------------------------------------|
+| YearsInCurrentRole      | Number of years the employee has been in their current role      |
+|-------------------------|------------------------------------------------------------------|
+| YearsSinceLastPromotion | Number of years since the employee's last promotion              |
+|-------------------------|------------------------------------------------------------------|
+| YearsWithCurrManager    | Number of years the employee has been with their current manager | 
+|-------------------------|------------------------------------------------------------------|
